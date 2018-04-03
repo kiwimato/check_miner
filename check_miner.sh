@@ -9,8 +9,8 @@ STATSLINK="http://music.minerpool.net/#/account/0xe5b11910e14421d4fec22a6cbfae2d
 ETHOS_LINK="http://5b75d5.ethosdistro.com/graphs/?rig=522b2e&type=fanrpm"
 
 # e-mails to notify in case it's down
-MAILTO="dub2sauce@gmail.com"
-CCMAILTO="groza.vlad.mircea@gmail.com"
+MAILTO="xy"
+CCMAILTO="xx"
 BODY="\n - $STATSLINK \n - rig panel: http://5b75d5.ethosdistro.com \n\n Have a nice one! ;)"
 
 
