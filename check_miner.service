@@ -1,0 +1,10 @@
+[Unit]
+Description=check_miner
+
+[Service]
+ExecStart=/home/rocknroll/check_ella.sh
+StandardOutput=journal
+
+[Install]
+WantedBy=multi-user.target
+
